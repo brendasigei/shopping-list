@@ -1,4 +1,4 @@
-// get the main form inputs and list area
+// get the main form inputs and list area in it
 const itemInput = document.querySelector('input[type="text"]');
 const priceInput = document.querySelector('input[type="number"]');
 const itemList = document.querySelector('ul');
